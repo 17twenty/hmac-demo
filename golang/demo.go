@@ -1,6 +1,8 @@
 // This demo shows how to HMAC sign a JSON payload.
 // We can inject this into a header.
-// Note: Different languages have different standards of
+// Note: Different languages have different methods of
+// encoding JSON so we show how that can affect the 
+// signature in the demo
 
 package main
 
